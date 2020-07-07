@@ -1,0 +1,15 @@
+# Prac05
+
+# Name/Surname: Nahal Rasti
+# Student ID: 20242400
+
+# Contents of Prac06: 
+#	testCat.py: Enter the class definition into animals.py from Lecture
+#	testAnimals.py: Add class definition for every animals in animals.py
+#		then read animals from animals.csv
+#	accounts.py: Contains the class definition from Bank Account code V3 in		the lecture	
+#	testAccounts.py: The driver code of Bank Account V3 from lecture to see 	if it works.
+#	banking.py: Simulating bank account transaction, choose one transaction 	, account and optional amount to run transacton on one account. Print 		the current balance
+
+# Date: 07/04/2020
+
